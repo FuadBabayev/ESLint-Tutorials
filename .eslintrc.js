@@ -34,7 +34,7 @@ module.exports = {
         'max-depth': ['warn', 4],                            // * Enforces a maximum depth nested blocks (İç içe max 4 block)
         'max-params': ['error', 3],                          // * Enforces a maximum number of parameters in function definitions
         'max-lines': ['error', 300],                         // * Enforces a maximum number of lines in a FILE
-        'no-multiple-empty-lines' : ['warn', { 'max': 2 }],  // * En fazla 2 ardışık boş satıra line-break <br> izin verir
+        'no-multiple-empty-lines' : ['warn', { 'max': 2 }],  // * En fazla 2 ardışık boş satıra line-break </br> izin verir
         'complexity': ['error', 10]                          // * Enforce a maximum cyclomatic complexity allowed in a program
     }
 };
