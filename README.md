@@ -16,7 +16,7 @@ When you launch 5th line code it give some questions and answers is below
 3. Which framework does your project use?                           None of these
 4. Does your project use TypeScript?                                No
 5. Where does your code run?                                        Browser
-6. How would you like to define a style for your project?           Answer questions about your style
+6. How would you like to define a style for your project?           Answer questions  about your style
 7. What format do you want your config file to be in?               JavaScript
 8. What style of indentation do you use?                            Spaces
 9. What quotes do you use for strings?                              Single
