@@ -8,7 +8,7 @@ ESLint is the most popular JavaScript linter. The term lint, or a linter, is a s
 6. npx eslint folder/fileName                                       To show all errors if it has (After answer all questions)
 7. npx eslint folder/fileName --fix                                 Fixes all problems except the ones that need to be removed.
 8. npm run lint                                                     After doing some changes in package.json 
-9. npm run lint-fix                                                 After doing some changes in package.json 
+9. npm run lint-fix                                                 After doing some changes in package.json  
 
 When you launch 5th line code it give some questions and answers is below
 1. How would you like to use ESLint?                                To check syntax, find problems, and enforce code style
